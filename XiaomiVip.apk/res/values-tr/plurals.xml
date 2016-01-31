@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="rank_up_by">
+        <item quantity="other">Dünden beri %d. sıraya çıktınız</item>
+        <item quantity="one">Dünden beri %d. sıraya çıktınız</item>
+    </plurals>
+    <plurals name="rank_down_by">
+        <item quantity="other">Dünden beri %d. sıraya düştünüz</item>
+        <item quantity="one">Dünden beri %d. sıraya düştünüz</item>
+    </plurals>
+</resources>

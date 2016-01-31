@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_magazine_title">Günlük kilit ekranı</string>
+    <string name="lockscreen_magazine_summary">Her gün kilit ekranına duvar kağıtları alın</string>
+    <string name="lockscreen_magazine_subscribe">%1$s takipçi</string>
+    <string name="lockscreen_magazine_system_title">Varsayılan</string>
+    <string name="lockscreen_magazine_system_subscribe">%1$s duvar kağıdı</string>
+    <string name="theme_apply_success">Kilit ekranına uygulandı</string>
+    <string name="theme_apply_failured">Kilit ekranına uygulanamadı</string>
+    <string name="theme_applying">Uygulanıyor</string>
+    <string name="app_name">Günlük kilit ekranı duvar kağıdı</string>
+    <string name="declaration_title">Şartlar ve koşullar</string>
+    <string name="declaration_lockscreen_title">Günlük kilit ekranını etkinleştirin</string>
+    <string name="declaration">"Bu ürünü kullanarak bizim &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>gizlilik politikası&lt;/a> şartlarımızı kabul etmiş olursunuz. Bu uygulamanın internete bağlanması gerekiyor"</string>
+    <string name="cancel">Çıkış</string>
+    <string name="ok_network">Kabul et ve günlük kilit ekranını etkinleştir</string>
+    <string name="ok_lockscreen">Tamam</string>
+    <string name="no_long_show">Tekrar gösterme</string>
+    <string name="resource_apply">Uygula</string>
+    <string name="resource_no_network_text">Ağa bağlanılamıyor</string>
+    <string name="setting_head">Ayarlar</string>
+    <string name="wlan_download">Sadece wifi</string>
+    <string name="change_time">Değiştirme aralığı</string>
+    <string name="hour_1">1 saat</string>
+    <string name="hour_3">3 saat</string>
+    <string name="day">1 gün</string>
+    <string name="summary">"Başlatmak için bizim &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>gizlilik politikasını&lt;/a> kabul etmeniz gerekmektedir. İnternet bağlantısı gereklidir​"</string>
+    <string name="at_least_one">En az bir kategori seçin</string>
+</resources>
